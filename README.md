@@ -1,4 +1,6 @@
 # Cpp-Examples
 C++ Portfolio Examples
 
-**Code is incoming.  Trying to compile and organize source from many locations.**
+**Overview**
+CS1:  Coursework for Computer Science 1
+CS2:  Coursework for Computer Science 2, Data Structures
