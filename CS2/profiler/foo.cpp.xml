@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<unit xmlns="http://www.srcML.org/srcML/src" xmlns:cpp="http://www.srcML.org/srcML/cpp" revision="0.9.5" language="C++" filename="foo.cpp"><function><type><name>void</name></type> <name>foo</name><parameter_list>(<parameter><decl><type><name>int</name></type> <name>x</name></decl></parameter>)</parameter_list> <block>{
+    <expr_stmt><expr><operator>++</operator><name>x</name></expr>;</expr_stmt>
+}</block></function>
+</unit>

@@ -1,0 +1,10 @@
+( AX + ( B * C ) ) ;
+( ( AX + ( B * CY ) ) / ( D - E ) ) ;
+( ( A + B ) * ( C + E ) ) ;
+( AX * ( BX * ( ( ( CY + AY ) + BY ) * CX ) ) ) ;
+( ( H * ( ( ( ( A + ( ( B + C ) * D ) ) * F ) * G ) * E ) ) + J ) ;
+( A * ( B * C ) ) ;
+( ( A - ( B * C ) ) + E ) ;
+( A + ( B * C ) ) / ( D - E ) ) ;
+( ( ( A * B ) / C ) - ( ( D + E ) * F ) ) ;
+( ( AX * BX ) + ( ( ( ( ( ( CX - DY ) * EX ) * FX ) * GY ) * HX ) + JY ) ) ;

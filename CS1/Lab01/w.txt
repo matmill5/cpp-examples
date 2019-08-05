@@ -1,0 +1,8 @@
+ 08:58:34 up 65 days, 22:42,  6 users,  load average: 0.07, 0.05, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+mkumari  pts/0    cpe-174-104-112- 06:47    1:53m  0.53s  0.43s emacs fileio.cpp
+whaverst pts/4    daphne.sdml.cs.k Tue10   45:06m  0.58s  0.11s sshd: whaverst [priv]
+whaverst pts/5    daphne.sdml.cs.k Tue10   46:11m  0.12s  0.12s -bash
+mmill199 pts/14   cpe-107-10-43-15 08:46    2.00s  0.20s  0.01s w
+jmaletic pts/15   kandinsky.cs.ken Wed11   18:49m  0.30s  0.30s -bash
+zalshaye pts/16   10.14.252.100    08:52    4:10   0.12s  0.12s -bash

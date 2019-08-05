@@ -1,0 +1,17 @@
+- It seems that the program spends most of its time conducting the bubble sort (Bottle neck).
+
+- When profiling the program on 30000, the bubble sort took 5.85 seconds cumulatively and 2.38 seconds on itself.
+
+- One of its function calls took nearly 30% of the execution time.
+
+- Per call, the bubble sort costs us 9.39 seconds in total.
+
+
+
+- This bubble sort takes so much time because it has to call the vector-accessor-operator 1348228538 times, an excessive amount of times.
+
+- The bubble sort is also slowed down by the LESS_THAN value-comparison and SWAP-operation.
+
+- Note, these operations are vector-based.
+
+- Perhaps C++ vectors are an expensive strucute and the bubble_sort could be impleneted more efficiently with a different structure.
