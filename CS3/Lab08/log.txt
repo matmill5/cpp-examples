@@ -1,0 +1,18 @@
+Main
+Calling nReports(int n)
+Making ten reportings, right now:
+A Bunch of Nothing
+A Bunch of Nothing
+A Bunch of Nothing
+A Bunch of Nothing
+A Bunch of Nothing
+A Bunch of Nothing
+A Bunch of Nothing
+A Bunch of Nothing
+A Bunch of Nothing
+A Bunch of Nothing
+Done with ten reporting entries.
+Now, doing a custom reporting entry with recordSomething(string)
+A Custom Entry
+Done
+destructor
